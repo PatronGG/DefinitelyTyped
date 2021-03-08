@@ -1,6 +1,6 @@
 {
     "private": true,
     "dependencies": {
-        "fast-glob": "^2.0.2"
+        "fast-glob": "^3.0.0"
     }
 }
